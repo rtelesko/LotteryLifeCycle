@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    // See for Activity Lifecycle: https://developer.android.com/reference/android/app/Activity
+
     @Override
     protected void onStart() {
         super.onStart();
